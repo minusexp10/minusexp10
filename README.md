@@ -7,8 +7,8 @@
 
 ### 🔧 Skills
 - **Backend:** Node.js, Express.js
-- **Languages:** JavaScript, Python
-- **Tools & DevOps:** Linux, Bash, Docker, Kubernetes (learning)
+- **Languages:** JavaScript, Python, Java, C++
+- **Tools & DevOps:** Linux, Bash, Docker(learning), Kubernetes (learning)
 - **Databases:** PostgreSQL, SQL
 
 ---
