@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hey there! I'm Akshat Kumar
 
-<!--
-**minusexp10/minusexp10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BTech CSE Student**  
+💻 **Backend Developer | DevOps Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I enjoy building scalable backend systems and exploring how software runs under the hood.  
+Currently focused on enhancing my DevOps skillset and understanding modern deployment workflows.
+
+### 🧠 Tech Stack & Skills
+- **Backend:** Node.js, Express.js
+- **Systems & Scripting:** Linux, Bash/Shell scripting
+- **Databases:** PostgreSQL, SQL
+- **DevOps & Cloud:** Docker, Kubernetes (learning), basics of networking & container orchestration
+- **Others:** Python (Graphics & scripting)
+
+---
+
+### 🌱 What I'm Learning Right Now
+- DevOps tools & automation
+- Docker, Kubernetes & container-based architecture
+- CI/CD pipelines
+- Cloud fundamentals
+
+---
+
+### 📫 Connect With Me
+📧 **Email:** `akshat.kumar05j@gmail.com`  
+🌐 Working on improving my GitHub presence — stay tuned!
+
+---
+
+### ✨ Fun Fact
+> I'm extremely loyal to whatever I commit myself to 😉  
+> (yes, GitHub recommended adding this 😌)
+
+---
+
+### 🤝 Open to Collaboration
+If you’re working on backend systems, DevOps tooling, or cloud projects — I'd love to collaborate!
+
+---
+
+⭐ **Feel free to explore my repositories and drop a star if you find something interesting!**  
+Thanks for visiting my profile 😄
+
